@@ -1,3 +1,6 @@
 [submodule "Concurrency on iOS/2017AtSwift_Concurrency"]
 	path = Concurrency on iOS/2017AtSwift_Concurrency
 	url = https://github.com/atConf/2017AtSwift_Concurrency.git
+[submodule "Thinking in RxSwift way/RxFeedback"]
+	path = Thinking in RxSwift way/RxFeedback
+	url = https://github.com/atConf/RxFeedback.git
