@@ -1,0 +1,3 @@
+[submodule "Concurrency on iOS/2017AtSwift_Concurrency"]
+	path = Concurrency on iOS/2017AtSwift_Concurrency
+	url = https://github.com/atConf/2017AtSwift_Concurrency.git
