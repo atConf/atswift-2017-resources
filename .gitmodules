@@ -4,3 +4,9 @@
 [submodule "Thinking in RxSwift way/RxFeedback"]
 	path = Thinking in RxSwift way/RxFeedback
 	url = https://github.com/atConf/RxFeedback.git
+[submodule "Lightweight reactive-api for MVVM/let.swift"]
+	path = Lightweight reactive-api for MVVM/let.swift
+	url = https://github.com/atConf/let.swift.git
+[submodule "Lightweight reactive-api for MVVM/let.swift.demo.backend"]
+	path = Lightweight reactive-api for MVVM/let.swift.demo.backend
+	url = https://github.com/atConf/let.swift.demo.backend.git
