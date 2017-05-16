@@ -10,3 +10,6 @@
 [submodule "Lightweight reactive-api for MVVM/let.swift.demo.backend"]
 	path = Lightweight reactive-api for MVVM/let.swift.demo.backend
 	url = https://github.com/atConf/let.swift.demo.backend.git
+[submodule "TensorFlow-on-iOS"]
+	path = TensorFlow-on-iOS
+	url = https://github.com/atConf/TensorFlow-on-iOS.git
