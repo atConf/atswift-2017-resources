@@ -13,3 +13,6 @@
 [submodule "TensorFlow-on-iOS"]
 	path = TensorFlow-on-iOS
 	url = https://github.com/atConf/TensorFlow-on-iOS.git
+[submodule "METAL & DEEP LEARNING/MetalColor"]
+	path = METAL & DEEP LEARNING/MetalColor
+	url = https://github.com/atConf/MetalColor.git
